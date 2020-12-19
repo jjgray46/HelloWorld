@@ -2,7 +2,7 @@
   {"Date": "2020-12-31", "predictHigh": 620.0, "predictLow": 444.0, "prediction": 585.0},
   {"Date": "2020-10-01", "Close": 555, "predictHigh": 555.0, "predictLow": 555.0, "prediction": 555.0},
   {"Date": "2020-09-01", "Close": 466},
-  {"Date": "2020-08-01", "Close": 434, "Q3_Predict": 466,"Q3_PredictLow": 466,"Q3_PredictHigh": 466 },
+  {"Date": "2020-08-01", "Close": 434, "Q3_Predict": 466,"Q3_PredictLow": 355,"Q3_PredictHigh": 500 },
   {"Date": "2020-07-01", "Close": 412},
   {"Date": "2020-06-01", "Close": 350}
   ];
