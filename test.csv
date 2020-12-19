@@ -1,4 +1,7 @@
 Date, Close, Open, Event, color
 2020-12-08,501.9, 450, Downgrade, #fcba03
 2020-11-12,555, 550, Upgrade, #03fc1c
-2020-10,10,444, 433, Downgrade, #1525d6
+2020-10,10,444, 422, Downgrade, #1525d6
+2020-9,10,444, , Downgrade, #1525d6
+2020-8,10,444, , Downgrade, #1525d6
+2020-7,10,444, , Downgrade, #1525d6
