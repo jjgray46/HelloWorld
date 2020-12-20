@@ -2,7 +2,7 @@
   {"Date": "2016-04-01", "Volume": 1100, "Close": 11},
   {"Date": "2016-06-01", "Volume": 1100, "Close":33, "Event": 33, "Type":"E", "Details": "Earnings Report\n Beat estimate", "AnalystForecast": 11},
   {"Date": "2017-05-01", "Volume": 1000, "Close": 22},
-  {"Date": "2018-06-01", "Volume": 10, "Close": 55,"Event": 55,"Type": "U", "Details": "Upgrade by Piper", "labelcolor": colorSet.getIndex(4)},
+  {"Date": "2018-06-01", "Volume": 10, "Close": 55,"Event": 55,"Type": "U", "Details": "Upgrade by Piper", "labelcolor": "colorSet.getIndex(4)"},
   {"Date": "2019-04-01", "Volume": 17, "Close": 111},
   {"Date": "2020-05-01", "Volume": 162, "Close": 222, "Event": 222,"Type":"E", "Details": "Earnings Report\n Beat estimate", "AnalystForecast": 223},
   {"Date": "2020-06-01", "Volume": 1000, "Close": 350, "AnalystForecast": 377},
