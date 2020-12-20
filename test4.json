@@ -2,7 +2,7 @@
   {"Date": "2020-12-31", "predictHigh": 620.0, "predictLow": 444.0, "prediction": 585.0, "showTooltip": "always", "orientation": "left"},
   {"Date": "2020-10-01", "Close": 555, "predictHigh": 555.0, "predictLow": 555.0, "prediction": 555.0},
   {"Date": "2020-09-01", "Close": 466, "Event": 466,"Type": "O", "Details": "Leadership Change\nNewCEO" , "labelcolor": "#CCCC00"},
-  {"Date": "2020-08-01", "Close": 434, "Event": 434, "Type": "U", "Details": "Upgrade by Vanguard" , "labelcolor": "#228B22", "orientation": "up"},
+  {"Date": "2020-08-01", "Close": 434, "Event": 434, "Type": "U", "Details": "Upgrade by Vanguard" , "labelcolor": "#228B22"},
   {"Date": "2020-07-01", "Close": 412, "Event": 412,"Type": "D", "Details": "Downgrade by JP Morgan", "labelcolor": "#B22222"},
   {"Date": "2020-06-01", "Close": 350},
   {"Date": "2020-05-01", "Close": 350},
