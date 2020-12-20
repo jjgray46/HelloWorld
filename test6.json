@@ -9,6 +9,5 @@
   {"date": "2020-08-01","Date": "2020-08-01", "Volume": 666, "Close": 434, "Event": 434, "Type": "U", "Details": "Upgrade by Vanguard" , "labelcolor": "#228B22"},
   {"date": "2020-09-01","Date": "2020-09-01", "Volume": 700, "Close": 466, "Event": 466,"Type": "O", "Details": "Leadership Change\nNewCEO" , "labelcolor": "#CCCC00"},
   {"date": "2020-10-01","Date": "2020-10-01", "Volume": 1000, "Close": 555, "predictHigh": 555.0, "predictLow": 555.0, "prediction": 555.0},
-  {"date": "2020-12-31","Date": "2020-12-31", "predictHigh": 620.0, "predictLow": 444.0, "prediction": 585.0, "showTooltip": "always", "orientation": "left"},
   {"date": "2020-06-01","Date": "2020-06-01", "Volume": 1000, "Close": 350}
   ];
